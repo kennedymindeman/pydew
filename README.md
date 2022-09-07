@@ -1,1 +1,1 @@
-Stardew valley clone using Python.  This is to test the merge tool.  Still testing.
+Stardew valley clone using Python.
